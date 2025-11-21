@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Daphne. I'm still figuring this website out. 
+My name is Daphne. I'm still figuring this out. 
 
 <!--
 **ddruiz/ddruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
